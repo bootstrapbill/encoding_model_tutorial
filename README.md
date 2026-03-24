@@ -25,7 +25,7 @@ All data downloads and package installations are handled within the notebook its
  
 ## Acknowledgements
  
-This tutorial is adapted from the encoding notebook (`04-encoding.ipynb`) in the [Podcast ECoG Tutorials](https://github.com/hassonlab/podcast-ecog-tutorials) by the Hasson Lab at Princeton University.
+This tutorial is adapted directly from the encoding notebook (`04-encoding.ipynb`) in the [Podcast ECoG Tutorials](https://github.com/hassonlab/podcast-ecog-tutorials) by the Hasson Lab at Princeton University.
  
 The underlying dataset is described in:
  
