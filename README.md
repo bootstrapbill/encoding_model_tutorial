@@ -6,14 +6,14 @@ Tutorial on using LLM features to predict speech-evoked neural activity.
  
 ## Overview
  
-This tutorial walks through building an **encoding model** that maps linguistic features — in this case large language model (LLM) embeddings — onto neural activity recorded with electrocorticography (ECoG) during natural speech listening.
+This tutorial walks through building an **encoding model** that maps linguistic features (in this case word embeddings from GPT2-xl) onto neural activity recorded with electrocorticography (ECoG) during natural speech listening.
  
 You will learn to:
  
 - Load and explore ECoG data and stimulus features from the Podcast dataset
-- Construct delay-embedded feature matrices
 - Fit encoding models via ridge regression
-- Evaluate model performance and visualise predictions against recorded neural activity
+- Visualise model performance both spatially and temporally
+- Think critically about what model to brain mappings like this tell us. 
  
 The notebook is designed for interactive use in **Google Colab**. 
  
